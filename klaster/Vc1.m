@@ -48,8 +48,6 @@ float const base_ZOOM = 2;
 {
     [super viewWillAppear:animated];
     
-    
-    [self setDatabse];
    
 
 
